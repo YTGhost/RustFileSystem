@@ -1,5 +1,7 @@
 # RustFileSystem
 
+[TOC]
+
 ## Introduction
 
 The RustFileSystem is a small file system with a FAT-like structure that supports functions such as creating, copying and editing files and folders, as well as providing a user-friendly GUI interface for users to operate.
